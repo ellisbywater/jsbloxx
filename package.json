@@ -1,0 +1,14 @@
+{
+  "name": "jsblox",
+  "version": "0.0.1",
+  "description": "blockchain built with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ebwx",
+  "license": "ISC",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
